@@ -12,9 +12,8 @@
 	</properties>
 
 	<scm>
-	
-	 <connection>https://github.com/Gnanapandithan/test-app.git</connection>
-         <url>https://github.com/Gnanapandithan/test-app</url>
+		<connection>scm:git:https://Gnanapandithan@github.com/test-app.git</connection>
+		<developerConnection>scm:git:https://Gnanapandithan@github.com/test-app.git</developerConnection>
 	</scm>
 	<dependencies>
 		<dependency>
