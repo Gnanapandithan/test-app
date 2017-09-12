@@ -1,0 +1,8 @@
+com\demo\common\Stall.class
+com\demo\resource\GetStarted.class
+com\demo\graphite\GraphiteProducer.class
+com\demo\common\StallQualifier.class
+com\demo\resource\VegetableStall.class
+com\demo\resource\HeartBeatResource.class
+com\demo\common\StallType.class
+com\demo\resource\FruitStall.class
