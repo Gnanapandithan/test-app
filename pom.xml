@@ -18,13 +18,14 @@
     <tag>HEAD</tag>
   </scm>
   
-    <repositories>
-      <repository>
-         <id>localrepository</id>
+<distributionManagement>
+       <repository>
+         <id>internal.repo</id>
+         <name>Internal repo</name>
          <url>file://C:/Users/371996/.m2/repository</url>
-      </repository>
-   </repositories>
-  
+       </repository>
+   </distributionManagement>
+    
   
 	<dependencies>
 		<dependency>
