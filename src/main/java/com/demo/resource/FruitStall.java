@@ -8,6 +8,6 @@ import com.demo.common.StallType;
 public class FruitStall implements Stall{
 
 	public String getName() {
-		return "world fruitstall";
+		return "world fruitstall ";
 	}
 }
