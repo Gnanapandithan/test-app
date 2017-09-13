@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.demo</groupId>
 	<artifactId>test-app</artifactId>
-	<version>0.0.9-SNAPSHOT</version>
+	<version>0.0.9</version>
 	<packaging>war</packaging>
 
 	<properties>
@@ -15,7 +15,7 @@
 	<connection>scm:git:git@github.com:gnanapandithan/test-app.git</connection>
 	<url>scm:git:git@github.com:gnanapandithan/test-app.git</url>
 	<developerConnection>scm:git:git@github.com:gnanapandithan/test-app.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>test-app-0.0.9</tag>
   </scm>
   
 <distributionManagement>
